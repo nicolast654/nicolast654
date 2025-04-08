@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I’m @nicolast654
+
+Still figuring things out.  
+Tinkering with systems, chasing weird bugs, and occasionally pretending I know ML.  
+One day this’ll have a proper bio. Until then, enjoy the chaos.
+
+More open-source projects (and a real README) coming soon.
 
 <!--
 **nicolast654/nicolast654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
